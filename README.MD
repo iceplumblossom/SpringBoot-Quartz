@@ -50,5 +50,5 @@ SpringBoot整合Quartz作为调度中心使用完整实例
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 Note:
-It didn't use the DB middle-ware(no Hibernate).
+It didn't use the DB middle-ware(no Hibernate, no MyBatis). SpringJPA is used with the MySQL DB.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
