@@ -48,4 +48,7 @@ SpringBoot整合Quartz作为调度中心使用完整实例
     
 
 
-
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Note:
+It didn't use the DB middle-ware(no Hibernate).
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
